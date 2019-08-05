@@ -5,7 +5,7 @@ cache:
   - cocoapods
 xcode_workspace: ConfigurationDemo.xcworkspace
 xcode_scheme: ConfigurationDemo-Release
-xcode_destination: platform:iOS Simulator, id:6F17A6EA-29EC-4646-B6B4-84FF3D4FD589, OS:12.0, name:iPhone X
+xcode_destination: platform=iOS Simulator, OS=12.0, name=iPhone X
 before_install:
   - bundle install
   - gem install linterbot
