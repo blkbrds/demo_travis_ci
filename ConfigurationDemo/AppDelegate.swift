@@ -8,6 +8,8 @@
 
 import UIKit
 
+//https://www.appcoda.com/using-xcode-targets/
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
