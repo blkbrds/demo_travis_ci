@@ -5,8 +5,6 @@ source "https://rubygems.org"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
-gem 'fastlane'
-gem 'xcpretty'
-gem 'cocoapods'
-gem 'linterbot'
-gem 'slather'
+gem 'xcpretty', '~> 0.2.2'
+gem 'cocoapods', '~> 1.2.0'
+gem 'linterbot', '~> 0.2.5'
