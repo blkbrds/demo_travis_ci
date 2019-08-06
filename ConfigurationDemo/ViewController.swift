@@ -16,4 +16,28 @@ class ViewController: UIViewController {
         let _ = 0.0
         let _ = 0.0
     }
+    
+    func testAllFunction1() {
+        
+    }
+    
+    func testAllFunction2() {
+        
+    }
+    
+    func testAllFunction3() {
+        
+    }
+    
+    func testAllFunction4() {
+        
+    }
+    
+    func testAllFunction5() {
+        
+    }
+    
+    func testAllFunction6() {
+        
+    }
 }
