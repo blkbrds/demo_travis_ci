@@ -4,7 +4,9 @@ xcode_workspace: ConfigurationDemo.xcworkspace
 xcode_scheme: ConfigurationDemo-Release
 xcode_destination: platform=iOS Simulator,OS=12.0,name=iPhone X
 before_install:
-  - bundle install
+  - bundle install 
+  - pod --version
+  - ruby --version
   - gem install linterbot
   - bundle exec pod install --repo-update
 install:
