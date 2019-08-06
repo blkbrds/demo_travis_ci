@@ -14,5 +14,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         let _ = 0.0
+        let _ = 0.0
     }
 }
